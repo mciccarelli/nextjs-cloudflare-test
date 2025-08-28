@@ -1,0 +1,7 @@
+name = "nextjs-cloudflare-test"
+compatibility_date = "2025-08-28"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = "dist"
+
+[placement]
+mode = "smart"
